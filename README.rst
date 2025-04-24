@@ -1,3 +1,10 @@
+A public code that computes Reverberation Transfer Functions around blakc holes.  
+
+reltrans is an X-ray reverberation mapping code that that self-consistently combines  reflection spectral characteristics and time delays  due to the different light crossing time between the direct and the reflected  emission of accreting black hole emission to accurately constrain the system properties such as black hole mass and spin. 
+
+
+
+
 ***************Installing reltrans***************
 
 Once you have downloaded the reltrans source code, go into the top directory (reverberation_code) and unpack the fftw tar file"
